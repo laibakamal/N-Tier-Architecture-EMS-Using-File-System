@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Presentation_Layer</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Business Logic Layer\Business Logic Layer.csproj" />
+    <ProjectReference Include="..\Business Object\Business Object.csproj" />
+    <ProjectReference Include="..\Data Access Layer\Data Access Layer.csproj" />
+  </ItemGroup>
+
+</Project>
