@@ -26,7 +26,7 @@ In Data Access Layer,
 Business Object: 
     1- Employee business object class created.
     2- properties of employee created.
-    3- there is a function which prints the employee info of its calling object.
+    3- there is a function which prints the employee info of its calling object
     
     
     
